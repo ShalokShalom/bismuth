@@ -8,7 +8,7 @@
 
 # 🌈 Bismuth 🌈
 
-#### Making tiling window management easy. On KDE Plasma.
+### This project is [abandoned.](https://github.com/Bismuth-Forge/bismuth/issues/471)
 
 [![wayland: supported](https://img.shields.io/badge/Wayland-Ready-blue?style=for-the-badge&logo=kde)](https://community.kde.org/KWin/Wayland)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Bismuth-Forge/bismuth?color=red&logo=github&style=for-the-badge)](https://github.com/Bismuth-Forge/bismuth/releases/latest)
